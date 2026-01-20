@@ -1,6 +1,6 @@
 import React from 'react';
 import { CheckCircle2 } from 'lucide-react';
-import { DELIVERABLES } from '../../constants';
+import { DELIVERABLES } from '../constants';
 
 export const Deliverables: React.FC = () => {
   return (

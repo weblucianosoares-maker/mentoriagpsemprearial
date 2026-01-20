@@ -1,6 +1,6 @@
 import React from 'react';
 import { MessageCircle, Shield, HandMetal, HeartHandshake } from 'lucide-react';
-import { PILLARS } from '../../constants';
+import { PILLARS } from '../constants';
 
 // Updating icons to match the new "human" tone
 const iconMap: any = {

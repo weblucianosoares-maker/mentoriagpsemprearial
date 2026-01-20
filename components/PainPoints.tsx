@@ -1,6 +1,6 @@
 import React from 'react';
 import { X, AlertTriangle } from 'lucide-react';
-import { PAIN_POINTS } from '../../constants';
+import { PAIN_POINTS } from '../constants';
 
 export const PainPoints: React.FC = () => {
   return (
